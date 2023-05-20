@@ -1,3 +1,7 @@
+---
+title: "Arqueología Política"
+date: "2023-05-19"
+---
 - Autores
 	- [[Arqueologia Politica/Autores/Cathryn Townsend|Cathryn Townsend]]
 	- [[Arqueologia Politica/Autores/James Woodburn|James Woodburn]]
