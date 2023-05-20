@@ -64,6 +64,6 @@ page_title:
   "Apuntes Arqueologia"
 
 # links to show in the footer
-#links:
+links:
   - link_name: Github
     link: https://github.com/iimiau
