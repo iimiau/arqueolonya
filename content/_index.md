@@ -6,8 +6,8 @@ enableToc: false
 Pagina de respaldo de mis apuntes, separados por tipo de materia mas que por ramo o año.
 
 - [[Arqueología de Chile/Arqueología de Chile|Arqueología de Chile]]
-	- [[Arqueología de Chile/Norte Grande|Norte Grande]]
-	- [[Arqueología de Chile/Norte Semiárido|Norte Semiárido]]
+	- [[Arqueología de Chile/Norte Grande/Norte Grande|Norte Grande]]
+	- [[Arqueología de Chile/Norte Semiárido/Norte Semiárido|Norte Semiárido]]
 - [[Arqueologia Politica/Arqueología Política|Arqueología Política]]
 	- Autores
 		- [[Arqueologia Politica/Autores/Cathryn Townsend|Cathryn Townsend]]

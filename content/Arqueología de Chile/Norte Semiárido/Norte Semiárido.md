@@ -6,7 +6,7 @@ date: "2023-05-19"
 # Periodos
 > [!info] 
 > Del Norte Semiárido al sur aparece la cerámica entre el **200 aC - 200 dC**, mas tardío que el norte grande (~1000 aC). Tras la adopción de la cerámica no desaparece como costumbre, en escala arqueológica **el surgimiento es sincrónico** en todas estas zonas.
-## [[Arcaico Tardío]] (3500 aC - 0)
+## [[Arqueología de Chile/Norte Grande/Arcaico]] (3500 aC - 0)
 - Reducción de movilidad de cazadores recolectores, surge el arte rupestre (~2000 aC), inicio de uso de piedras tacitas, en la costa (Sitio Punta Teatinos) aparecen grandes conchales asociados a cementerios (hectáreas), surge una diferenciación entre sectores costeros e interiores de los valles.
 ### [[Propuesta Tradicional]] 
 - Schiappacasse y Niemeyer, 1986, proponen fases para el NSA, específicamente definen la Fase Quebrada Honda, la quinta fase del periodo arcaico (~2000 AP), describen cazadores recolectores costeros asociados a tembetás, pipas, placas de cobre, puntas de proyectil de base cóncava, pero todo sin cerámica. Esta ausencia puede ser cuestionada como una falta de evidencia material.
