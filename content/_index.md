@@ -5,9 +5,9 @@ enableToc: false
 
 Pagina de respaldo de mis apuntes, separados por tipo de materia mas que por ramo o año.
 
-- [[Arqueología de Chile]]
-	- [[Norte Grande]]
-	- [[Norte Semiárido]]
+- [[Arqueología de Chile/Arqueología de Chile|Arqueología de Chile]]
+	- [[Arqueología de Chile/Norte Grande|Norte Grande]]
+	- [[Arqueología de Chile/Norte Semiárido|Norte Semiárido]]
 - [[Arqueologia Politica/Arqueología Política|Arqueología Política]]
 	- Autores
 		- [[Arqueologia Politica/Autores/Cathryn Townsend|Cathryn Townsend]]
@@ -18,5 +18,5 @@ Pagina de respaldo de mis apuntes, separados por tipo de materia mas que por ram
 		- [[Arqueologia Politica/Autores/René Clastres|René Clastres]]
 		- [[Arqueologia Politica/Autores/Robert Paynter|Robert Paynter]]
 	- Temas
-		- [[Poder]]
-		- [[Sociedades Igualitarias]]
+		- [[Arqueologia Politica/Temas/Poder|Poder]]
+		- [[Arqueologia Politica/Temas/Sociedades Igualitarias|Sociedades Igualitarias]]
