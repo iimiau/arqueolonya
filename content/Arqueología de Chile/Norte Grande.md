@@ -1,8 +1,8 @@
 ---
 title: "Norte Grande"
-tags:
-- Norte-grande 
+date: "2023-05-19"
 ---
+
 ***
 # Periodos
 ## [[Arcaico Tardío]] (2000-1700 aC)

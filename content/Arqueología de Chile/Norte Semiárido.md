@@ -1,9 +1,8 @@
 ---
 title: "Norte Semiárido"
-tags:
-- NSA
-- Norte-semiárido
+date: "2023-05-19"
 ---
+
 # Periodos
 > [!info] 
 > Del Norte Semiárido al sur aparece la cerámica entre el **200 aC - 200 dC**, mas tardío que el norte grande (~1000 aC). Tras la adopción de la cerámica no desaparece como costumbre, en escala arqueológica **el surgimiento es sincrónico** en todas estas zonas.
