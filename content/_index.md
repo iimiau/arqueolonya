@@ -3,20 +3,8 @@ title: Inicio
 enableToc: false
 ---
 
-Pagina de respaldo de mis apuntes, separados por tipo de materia mas que por ramo o año.
+# Apuntes Arqueología UC
+Respaldo de apuntes que he escrito o me he conseguido durante la carrera. Se puede usar buscador o ver por ramo en la tabla de abajo.
 
 - [[Arqueología de Chile/Arqueología de Chile|Arqueología de Chile]]
-	- [[Arqueología de Chile/Norte Grande/Norte Grande|Norte Grande]]
-	- [[Arqueología de Chile/Norte Semiárido/Norte Semiárido|Norte Semiárido]]
 - [[Arqueologia Politica/Arqueología Política|Arqueología Política]]
-	- Autores
-		- [[Arqueologia Politica/Autores/Cathryn Townsend|Cathryn Townsend]]
-		- [[Arqueologia Politica/Autores/James Woodburn|James Woodburn]]
-		- [[Arqueologia Politica/Autores/Kent Flannery|Kent Flannery]]
-		- [[Arqueologia Politica/Autores/Max Weber|Max Weber]]
-		- [[Arqueologia Politica/Autores/Michel Foucault|Michel Foucault]]
-		- [[Arqueologia Politica/Autores/René Clastres|René Clastres]]
-		- [[Arqueologia Politica/Autores/Robert Paynter|Robert Paynter]]
-	- Temas
-		- [[Arqueologia Politica/Temas/Poder|Poder]]
-		- [[Arqueologia Politica/Temas/Sociedades Igualitarias|Sociedades Igualitarias]]

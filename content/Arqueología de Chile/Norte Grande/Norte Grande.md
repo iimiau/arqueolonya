@@ -132,7 +132,7 @@ Pastores y cazadores de camélidos, se adopta la cerámica, siendo el tipo mas t
 - Continua la caza con estolica, moliendas en morteros de hueco conico, calabaza, chañar, algarrobo, perforadores liticos y cuentas de collar en hueso, mineral de cobre.
 - Todo esto lleva a una idea de complejizacion social, representada por la escala de estos sitios (al ser comparados con otros sitios del arcaico), la presencia de bienes de prestigio y una nueva ideologia.
 - Este proceso es local, no fue causado ni por migraciones ni por influencias externas.
-###### [[Tulan 52]]
+###### [[Arqueología de Chile/Norte Grande/Tulán 52]]
 - Un rasgo recurrente que posteriormente es masificado es el dintel con dos jambas, pozos circulares, fogones y basura.
 ##### [[Loa]] (2750-1650 aC)
 -  Complejo Chiu-Chiu 

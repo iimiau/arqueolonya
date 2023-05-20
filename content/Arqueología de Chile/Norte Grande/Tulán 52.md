@@ -1,4 +1,4 @@
 ---
-title: "Tulan 52"
+title: "Tulán 52"
 date: "2023-05-19"
 ---
