@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f553e122d7df2bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Arqueología de Chile/Norte Semiárido/Periodo Alfarero Temprano (0-800 dC).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Arqueología de Chile/Norte Semiárido/Periodo Alfarero Temprano (0-800 dC).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Arqueología de Chile/Norte Semiárido/Periodo Alfarero Temprano (0-800 dC).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,8 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9911bf629c63ee21",
+  "active": "f553e122d7df2bc1",
   "lastOpenFiles": [
+    "content/Arqueología de Chile/Norte Semiárido/Periodo Alfarero Temprano (0-800 dC).md",
+    "conflict-files-obsidian-git.md",
     "content/PDFs/troncoso y pavlovic 2013.pdf",
     "content/PDFs",
     "content/Arqueología de Chile/Norte Semiárido/Norte Semiárido.md",
@@ -200,7 +215,6 @@
     "Arqueología de Chile/Norte Grande/Tulán 54.md",
     "Arqueología de Chile/Norte Grande/Salar de Atacama.md",
     "Arqueología de Chile/Norte Grande/Quebradas Tarapaqueñas.md",
-    "Arqueología de Chile/Norte Grande/Loa.md",
     "Arqueología de Chile/Norte Semiárido",
     "Arqueología de Chile/Norte Grande",
     "Arqueologia Politica/Temas",
@@ -208,7 +222,6 @@
     "Arqueologia Politica",
     "Wiki/Arqueologia de Chile/Norte Grande",
     "Wiki/Arqueologia de Chile",
-    "Wiki",
     "Chile II/Norte Grande/Norte Grande.canvas"
   ]
 }
