@@ -39,3 +39,8 @@ date: "2023-05-19"
 ### [[Arqueología de Chile/Norte Semiárido/Complejo Cultural Las Animas|Complejo Cultural Las Animas]] 
 - Discusión actualmente para determinar si este complejo existe o no, es considerado en primera instancia como una fase arcaica de la cultura Diaguita, siendo posteriormente separados.  Esta secuencia no está presente en Combarbalá-Choapa.
 - Se define principalmente desde contextos funerarios, es un nuevo estilo de decoración cerámica, presenta entierros con camélidos, abandona las pipas y los tembetá, aumenta la metalurgia.
+eeeeeeee
+kjsdfghlskdjghlskdjgf
+
+
+sdfnghskdfjgblskdjfgbslkdjfgskldjfglskjdfglksjdfkgjs
