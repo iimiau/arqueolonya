@@ -1,0 +1,22 @@
+{
+  "spellcheck": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "spellcheckLanguages": [
+    "es"
+  ],
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Chile II/Norte Grande/PDFs",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false,
+  "newLinkFormat": "absolute"
+}

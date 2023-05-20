@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "a3a0afb48231f162",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6b7223c91c36c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afc464f7988c4685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fase Puripica-Tulán.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db96e3338873cbd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chile II/Norte Grande/Fases/Fase Huentelauquén.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "547663cbe64e765e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chile II/Norte Grande/Fases/Fase Patapane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d3454949f070eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chile II/Norte Grande/Fases/Fase Tuina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bf0165e26eb12ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chile II/Norte Grande/Fases/Fase Tambillo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94d4a3fdf99e0141",
+    "type": "split",
+    "children": [
+      {
+        "id": "79861517fe959a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9911bf629c63ee21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b888dd467d74eaa5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c67b259023cf000",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ffdaa6f628e28b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d4b1f18fe6ef88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83bfb14416209801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fase Puripica-Tulán.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a2385186e0af9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fase Puripica-Tulán.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d3fcb4cc847602b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "4257cc6a408edc56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fase Puripica-Tulán.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afc464f7988c4685",
+  "lastOpenFiles": [
+    "Chile II/Norte Grande/Textos - Autores/Nuñez y Santoro 2011.md",
+    "Fase Puripica-Tulán.md",
+    "Fase Huelen.md",
+    "Chile II/Chile II.md",
+    "Chile II/Norte Grande/Fases/Fase Huentelauquén.md",
+    "Chile II/Norte Grande/Fases/Fase Tambillo.md",
+    "Chile II/Norte Grande/Fases/Fase Tuina.md",
+    "Chile II/Norte Grande/Fases/Fase Patapane.md",
+    "Lenguaje Humano/Lenguaje Humano.md",
+    "Politica/Politica.md",
+    "Rusia/Rusia.md",
+    "Rusia/Textos - Autores/Khomiakov.md",
+    "Rusia/Textos - Autores",
+    "Rusia/Clases/09-03-23.md",
+    "Rusia/Clases",
+    "Politica/Textos - Autores",
+    "Politica/Clases",
+    "PDFs/Chile II/Norte Grande",
+    "PDFs/Chile II",
+    "Lenguaje Humano/Textos - Autores",
+    "Lenguaje Humano/Clases",
+    "Chile II/Norte Grande/Zonas/Desierto de Atacama.md",
+    "Chile II/Norte Grande/Etapas/Arcaico Norte Grande.md",
+    "Chile II/Norte Grande/Etapas/Formativo Norte Grande.md",
+    "Chile II/Norte Grande/Clases",
+    "Chile II/Norte Grande/Etapas",
+    "Chile II/Norte Grande/Textos - Autores/McRostie 2014.md",
+    "Chile II/18-04-23(1).md",
+    "Chile II/Norte Grande/Clases/21-03-23.md",
+    "Chile II/18-04-23(2).md",
+    "Chile II/Norte Grande/Clases/14-03-23.md",
+    "Chile II/Norte Grande/Clases/11-04-23.md",
+    "Chile II/Norte Grande/Clases/07-03-23.md",
+    "Chile II/Norte Grande/Clases/04-03-23.md",
+    "Rusia/Clases/23-03-23.md",
+    "Rusia/Clases/13-04-23.md"
+  ]
+}

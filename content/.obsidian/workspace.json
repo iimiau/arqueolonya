@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a3a0afb48231f162",
+    "type": "split",
+    "children": [
+      {
+        "id": "53dc929a5d4981e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a21ec3389e3d79af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arqueología de Chile/Arqueología de Chile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3b9275de4c64fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arqueología de Chile/Norte Semiárido/Norte Semiárido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94d4a3fdf99e0141",
+    "type": "split",
+    "children": [
+      {
+        "id": "79861517fe959a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9911bf629c63ee21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b888dd467d74eaa5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c67b259023cf000",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ef44df0e315beed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247
+  },
+  "right": {
+    "id": "ffdaa6f628e28b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d4b1f18fe6ef88",
+        "type": "tabs",
+        "dimension": 34.01162790697675,
+        "children": [
+          {
+            "id": "83bfb14416209801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arqueología de Chile/Arqueología de Chile.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a2385186e0af9f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arqueología de Chile/Arqueología de Chile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3d5ebd8be1612d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d3fcb4cc847602b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "440ca2c77a8ce4bd",
+        "type": "tabs",
+        "dimension": 65.98837209302326,
+        "children": [
+          {
+            "id": "4257cc6a408edc56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arqueología de Chile/Arqueología de Chile.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a21ec3389e3d79af",
+  "lastOpenFiles": [
+    "_index.md",
+    "Arqueología de Chile/Arqueología de Chile.md",
+    "Arqueología de Chile/Norte Semiárido/Norte Semiárido.md",
+    "Arqueología de Chile/Norte Semiárido/Periodo Alfarero Temprano (0-800 dC).md",
+    "Arqueología de Chile/Norte Semiárido/Complejo Cultural Las Animas.md",
+    "Arqueología de Chile/Norte Semiárido/Periodo Medio (800-1200 dC).md",
+    "Periodo Medio (800/900-1200 dC).md",
+    "Periodo Medio (800",
+    "Arqueología de Chile/Norte Semiárido/Complejo Cultural El Molle.md",
+    "Arqueología de Chile/Norte Grande/Norte Grande.md",
+    "Arqueología de Chile/Norte Semiárido/Arcaico.md",
+    "Arqueología de Chile/Norte Grande/Tulán 52.md",
+    "Arqueología de Chile/Norte Grande/Formativo.md",
+    "Arqueología de Chile/Norte Grande/Arcaico.md",
+    "Arqueología de Chile/Norte Grande/Fase Puripica-Tulán.md",
+    "Arqueología de Chile/Norte Grande/Viviendas.md",
+    "Arqueología de Chile/Norte Grande/Arte.md",
+    "Arqueología de Chile/Norte Grande/Prácticas Funerarias.md",
+    "Arqueología de Chile/Norte Grande/Cerámica.md",
+    "Arqueología de Chile/Norte Grande/Fase Alto Ramírez.md",
+    "Arqueología de Chile/Norte Grande/Tarapacá.md",
+    "Arqueología de Chile/Norte Grande/Tulán 54.md",
+    "Arqueología de Chile/Norte Grande/Salar de Atacama.md",
+    "Arqueología de Chile/Norte Grande/Quebradas Tarapaqueñas.md",
+    "Arqueología de Chile/Norte Grande/Loa.md",
+    "Arqueología de Chile/Norte Grande/Guatacondo.md",
+    "Arqueología de Chile/Norte Grande/Fase Tilocalar.md",
+    "Arqueología de Chile/Norte Semiárido",
+    "Arqueología de Chile/Norte Grande",
+    "Arqueologia Politica/Temas",
+    "Arqueologia Politica/Autores",
+    "Arqueologia Politica",
+    "Wiki/Arqueologia de Chile/Norte Grande",
+    "Wiki/Arqueologia de Chile",
+    "Wiki",
+    "Chile II/Norte Grande/PDFs/Ayala 2001.pdf",
+    "Chile II/Norte Grande/Norte Grande.canvas"
+  ]
+}
