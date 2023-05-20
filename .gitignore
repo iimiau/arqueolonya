@@ -5,3 +5,5 @@ resources
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
