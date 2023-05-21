@@ -41,3 +41,7 @@ date: "2023-05-19"
 				- [[Arqueología de Chile/Norte Semiárido/Complejo Cultural El Molle|Complejo Cultural El Molle]]
 			- [[Arqueología de Chile/Norte Semiárido/Periodo Medio (800-1200 dC)|Periodo Medio (800-1200 dC)]]
 				- [[Arqueología de Chile/Norte Semiárido/Complejo Cultural Las Animas|Complejo Cultural Las Animas]]
+		- Subregiones 
+			- [[Combarbalá-Choapa]]
+			- [[Copiapó-Huasco]]
+			- [[Elqui-Limarí]]
