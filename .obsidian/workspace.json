@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Arqueología de Chile/Arqueología de Chile.md",
+                "file": "content/Arqueología de Chile/ArqueologiadeChileReWrite.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Arqueología de Chile/Arqueología de Chile.md",
+                "file": "content/Arqueología de Chile/ArqueologiadeChileReWrite.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Arqueología de Chile/Arqueología de Chile.md",
+                "file": "content/Arqueología de Chile/ArqueologiadeChileReWrite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Arqueología de Chile/Arqueología de Chile.md"
+                "file": "content/Arqueología de Chile/ArqueologiadeChileReWrite.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "a21ec3389e3d79af",
   "lastOpenFiles": [
+    "content/Arqueología de Chile/Arqueología de Chile.md",
+    "content/Arqueología de Chile/ArqueologiadeChileReWrite.md",
     "content/Arqueología de Chile/Norte Semiárido/Norte Semiárido.md",
     "content/Arqueología de Chile/Norte Semiárido/Periodo Alfarero Temprano (0-800 dC).md",
     "conflict-files-obsidian-git.md",
@@ -200,8 +202,6 @@
     "Arqueología de Chile/Norte Grande/Fase Alto Ramírez.md",
     "Arqueología de Chile/Norte Grande/Tarapacá.md",
     "Arqueología de Chile/Norte Grande/Tulán 54.md",
-    "Arqueología de Chile/Norte Grande/Salar de Atacama.md",
-    "Arqueología de Chile/Norte Grande/Quebradas Tarapaqueñas.md",
     "Arqueología de Chile/Norte Semiárido",
     "Arqueología de Chile/Norte Grande",
     "Arqueologia Politica/Temas",
