@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 247,
+    "collapsed": true
   },
   "right": {
     "id": "ffdaa6f628e28b5c",
@@ -173,8 +174,10 @@
   },
   "active": "a21ec3389e3d79af",
   "lastOpenFiles": [
-    "content/Arqueología de Chile/Arqueología de Chile.md",
+    "content/Arqueología de Chile/Norte Semiárido/Complejo Cultural El Molle.md",
+    "content/Arqueología de Chile/Norte Semiárido/Arcaico.md",
     "content/Arqueología de Chile/ArqueologiadeChileReWrite.md",
+    "content/Arqueología de Chile/Arqueología de Chile.md",
     "content/Arqueología de Chile/Norte Semiárido/Norte Semiárido.md",
     "content/Arqueología de Chile/Norte Semiárido/Periodo Alfarero Temprano (0-800 dC).md",
     "conflict-files-obsidian-git.md",
@@ -200,8 +203,6 @@
     "Arqueología de Chile/Norte Grande/Prácticas Funerarias.md",
     "Arqueología de Chile/Norte Grande/Cerámica.md",
     "Arqueología de Chile/Norte Grande/Fase Alto Ramírez.md",
-    "Arqueología de Chile/Norte Grande/Tarapacá.md",
-    "Arqueología de Chile/Norte Grande/Tulán 54.md",
     "Arqueología de Chile/Norte Semiárido",
     "Arqueología de Chile/Norte Grande",
     "Arqueologia Politica/Temas",
