@@ -1,6 +1,6 @@
 {
   "spellcheck": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": true,
   "showFrontmatter": false,
   "showLineNumber": false,

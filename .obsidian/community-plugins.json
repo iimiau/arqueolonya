@@ -1,10 +1,9 @@
 [
-  "editing-toolbar",
   "waypoint",
   "table-editor-obsidian",
-  "calendar",
   "obsidian-smart-typography",
   "various-complements",
   "obsidian-plugin-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings"
 ]

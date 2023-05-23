@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a21ec3389e3d79af",
+            "id": "2eb90496fc7fd914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "2023-05-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 247,
+    "collapsed": true
   },
   "right": {
     "id": "ffdaa6f628e28b5c",
@@ -86,7 +87,6 @@
       {
         "id": "51d4b1f18fe6ef88",
         "type": "tabs",
-        "dimension": 34.01162790697675,
         "children": [
           {
             "id": "83bfb14416209801",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "2023-05-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,18 +111,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "2023-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "f3d5ebd8be1612d0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -135,30 +127,23 @@
                 "useHierarchy": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "440ca2c77a8ce4bd",
-        "type": "tabs",
-        "dimension": 65.98837209302326,
-        "children": [
+          },
           {
             "id": "4257cc6a408edc56",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "2023-05-23.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a21ec3389e3d79af",
+  "active": "2eb90496fc7fd914",
   "lastOpenFiles": [
-    "content/Arqueología de Chile/ArqueologiadeChileReWrite.md",
     "content/_index.md",
+    "2023-05-23.md",
+    "content/Arqueología de Chile/ArqueologiadeChileReWrite.md",
     "content/Arqueología de Chile/Arqueología de Chile.md",
     "content/Arqueología de Chile/Norte Semiárido/Complejo Cultural El Molle.md",
     "content/Arqueología de Chile/Norte Semiárido/Arcaico.md",
@@ -201,7 +187,6 @@
     "Arqueología de Chile/Norte Grande/Viviendas.md",
     "Arqueología de Chile/Norte Grande/Arte.md",
     "Arqueología de Chile/Norte Grande/Prácticas Funerarias.md",
-    "Arqueología de Chile/Norte Grande/Cerámica.md",
     "Arqueología de Chile/Norte Semiárido",
     "Arqueología de Chile/Norte Grande",
     "Arqueologia Politica/Temas",
